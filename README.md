@@ -1,3 +1,11 @@
 # Save_that_Square
 Pygame based game on protecting the sqaure and taking it from top left to bottom right of the screen without bumps
-https://user-images.githubusercontent.com/98468427/253928180-db479123-bd9d-432c-9688-73192326d3f2.png
+
+[![LeaderBoard](https://github.com/EternalBlissard/Save_that_Square/blob/main/Pics/LeaderBoard.png)](#features)
+
+LeaderBoard Shot
+---
+[![GameScreen](https://github.com/EternalBlissard/Save_that_Square/blob/main/Pics/GameScreen.png)](#GS)
+
+Game Screen
+---
